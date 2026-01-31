@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**RinesTech/rinestech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **[Rines](https://github.com/RinesTech)** — an aspiring developer who dreams big and builds bigger.
 
-Here are some ideas to get you started:
+I love creating things out of my imagination and turning ideas into real projects.  
+Cats, online games, and coding are my comfort zone.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always learning. Always building. Always exploring. 🚀
+
+---
+
+## Fun Facts
+
+• I really love cats  
+• I build and play online games  
+• I enjoy turning random ideas into working systems  
+• I code for fun (not just for school)  
+• Most of my ideas come at night  
+• I like experimenting with game mechanics and server systems
